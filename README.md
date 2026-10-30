@@ -14,7 +14,7 @@
 ### 💻 Sobre Mim
 Gestora de Tecnologia da Informação formada pela **FATEC Assis**. Direciono minha carreira para a otimização de processos corporativos através de **Automação, RPA, manipulação de dados e engenharia de software aplicada**. 
 
-Uno a visão estratégica de negócios com a execução técnica em **Python**, construindo scripts eficientes de extração de dados, automação de rotinas e soluções escaláveis. Atualmente, busco minha primeira oportunidade profissional para transformar gargalos operacionais em eficiência.
+Uno a visão estratégica de negócios com a execução técnica em **Python**, construindo scripts eficientes de extração de dados, automação de rotinas e soluções escaláveis.
 
 ---
 
